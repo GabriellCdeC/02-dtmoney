@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">	
-   <a href="https://www.linkedin.com/in/gabriell-castro-de-carvalho-a4a821144/">
-      <img alt="LeonneBrito" src="https://img.shields.io/badge/-LeonneBrito-5965e0?style=flat&logo=Linkedin&logoColor=white" />
-   </a>
+
   <img alt="Languages" src="https://img.shields.io/github/languages/count/LeonneBrito/dt.money?color=%235963C5" />
   <img alt="lastcommit" src="https://img.shields.io/github/last-commit/LeonneBrito/dt.money?color=%235761C3" />
   <img alt="License" src="https://img.shields.io/github/license/LeonneBrito/dt.money?color=%235E69D7" />
