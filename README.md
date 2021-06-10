@@ -20,7 +20,7 @@
 </p>
 
 <div align="center">
-  <sub> Made with 💖 by
+  <sub> Made by
     <a href="https://github.com/GabriellCdeC">Gabriell Castro.
   </sub>
 </div>
@@ -68,7 +68,7 @@ Go to http://localhost:3000/ to see the result.
 
 # :bug: Issues
 
-Create a <a href="https://github.com/LeonneBrito/dt.money/issues">new issue report</a>, it will be an honor to be able to help you solve and further improve our application.
+Create a <a href="https://github.com/GabriellCdeC/02-dtmoney/issues">new issue report</a>, it will be an honor to be able to help you solve and further improve our application.
 
 # :sparkles: Contributing
 
@@ -80,6 +80,6 @@ Create a <a href="https://github.com/LeonneBrito/dt.money/issues">new issue repo
 # :page_facing_up: License
 
 This project is under the [MIT license](./LICENSE).
-Made with 💖 by [Leonne Brito](https://www.linkedin.com/in/leonne-sousa-brito/). 
+Made by [Gabriell Castro](https://www.linkedin.com/in/gabriell-castro-de-carvalho-a4a821144/). 
 
 Thank you! 🌠
