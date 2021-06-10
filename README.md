@@ -54,7 +54,7 @@ This project was made using the follow technologies:
 
 ```bash
 # Clone Repository
-$ git clone https://github.com/LeonneBrito/dt.money.git
+$ git clone https://github.com/GabriellCdeC/02-dtmoney.git
 ```
 
 ```bash
